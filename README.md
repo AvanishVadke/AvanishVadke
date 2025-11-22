@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <strong>Avanish Vadke</strong></h1>
 <p align="center">
   <em>Computer Engineering Student • Full-Stack & ML Developer • Former Development Head @ Coders Club APSIT</em><br>
-  📍 Thane, India • 💼 <a href="https://avanishvadke.me" target="_blank">avanishvadke.me</a> • ✉️ avanishvadke001@gmail.com
+  📍 India • 💼 <a href="https://avanishvadke.me" target="_blank">avanishvadke.me</a> • ✉️ avanishvadke001@gmail.com
 </p>
 
 ---
