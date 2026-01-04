@@ -78,7 +78,3 @@ I’m always open to collaborations, innovative ideas, or just chatting about te
 
 ---
 
-<p align="center">
-  <i>“Dont be afraid to build stuff. Even Elon didnt land starship first time”</i><br>
-  — Avanish Vadke
-</p>
